@@ -1,0 +1,11 @@
+google-cloud-storage
+opencv-python
+face_recognition
+cvzone
+numpy
+flask
+functions-framework==3.0.0
+requests==2.28.2
+dlib==19.24.6
+cmake
+gunicorn==20.1.0  # WSGI sunucusu
